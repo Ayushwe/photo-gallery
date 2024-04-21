@@ -1,11 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600");
 
-/*
-	Snapshot by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
 /* Reset */
 
@@ -1599,22 +1594,4 @@
 		padding: 4em 0 2em 0;
 		background: #f2f2f2;
 	}
-
-		.copyright {
-			padding: 2em 0 2em 0;
-			background: #f2f2f2;
-			color: #bfbfbf;
-			font-size: 0.9em;
-			text-align: center;
-		}
-.copyright a{
-	text-decoration: none;
-}
-
-		@media screen and (max-width: 736px) {
-
-			#footer {
-				padding: 3em 0 1em 0;
-			}
-
-		}
+\
